@@ -1,0 +1,9 @@
+*.pdf
+*.mov
+*.mp3
+*.mp4
+*.vtt
+__pycache__
+*.m4a
+*_KEY.txt
+main.py
